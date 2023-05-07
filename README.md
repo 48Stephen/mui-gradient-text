@@ -1,12 +1,8 @@
-# MUI Text Graient
-
-## Get started
-
 <!DOCTYPE html>
 <html>
 
 <body>
-	<h1>Spotify Inspired Pages</h1>
+	<h1>MUI Text Graient</h1>
     <h2><a href="https://codesandbox.io/s/mui-text-gradient-gklp69">Check out in Code Sand box</a></h2>
 	<p>An easy component to implement gradient text in Material UI</p>
 
