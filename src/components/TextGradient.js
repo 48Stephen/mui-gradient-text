@@ -2,9 +2,6 @@ import { Typography } from "@mui/material"
 
 
 const TextGradient = ({options, children}) => {
-
-   
-
     return (
         <Typography
             variant={options.variant}

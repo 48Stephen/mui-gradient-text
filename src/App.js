@@ -1,5 +1,4 @@
 
-import './App.css';
 import TextGradient from './components/TextGradient';
 
 const App = () => {
